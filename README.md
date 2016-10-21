@@ -1,4 +1,5 @@
-A boilerplate template used to setup Wraith visual tests
+**A boilerplate template used to setup Wraith visual tests
+
 
 Steps to run before amd after comparison:
 
